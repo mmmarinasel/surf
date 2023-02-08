@@ -14,8 +14,6 @@
 		4182BAA029911E520022659A /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182BA9F29911E520022659A /* Observable.swift */; };
 		4182BAA229911E600022659A /* ViewLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182BAA129911E600022659A /* ViewLoadable.swift */; };
 		4182BAA42992301E0022659A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182BAA32992301E0022659A /* MainView.swift */; };
-		4182BAA629929ED10022659A /* BottomSheetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182BAA529929ED10022659A /* BottomSheetViewController.swift */; };
-		4182BAA82992CF840022659A /* BottomSheetTransitioningDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4182BAA72992CF840022659A /* BottomSheetTransitioningDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,8 +26,6 @@
 		4182BA9F29911E520022659A /* Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
 		4182BAA129911E600022659A /* ViewLoadable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewLoadable.swift; sourceTree = "<group>"; };
 		4182BAA32992301E0022659A /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
-		4182BAA529929ED10022659A /* BottomSheetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetViewController.swift; sourceTree = "<group>"; };
-		4182BAA72992CF840022659A /* BottomSheetTransitioningDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetTransitioningDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +58,6 @@
 		4182BA84299109FF0022659A /* surf_mmmarinasel */ = {
 			isa = PBXGroup;
 			children = (
-				4182BAA529929ED10022659A /* BottomSheetViewController.swift */,
-				4182BAA72992CF840022659A /* BottomSheetTransitioningDelegate.swift */,
 				4182BA9B29911E1E0022659A /* Helper */,
 				4182BA9A29911E180022659A /* Service */,
 				4182BA9929911E110022659A /* Screens */,
@@ -195,8 +189,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4182BAA229911E600022659A /* ViewLoadable.swift in Sources */,
-				4182BAA629929ED10022659A /* BottomSheetViewController.swift in Sources */,
-				4182BAA82992CF840022659A /* BottomSheetTransitioningDelegate.swift in Sources */,
 				4182BA8A299109FF0022659A /* MainViewController.swift in Sources */,
 				4182BAA029911E520022659A /* Observable.swift in Sources */,
 				4182BAA42992301E0022659A /* MainView.swift in Sources */,
